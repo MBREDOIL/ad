@@ -49,12 +49,7 @@
       "required": true
     }
   },
-  "formation": {
-        "worker": {
-            "quantity": 1,
-            "size": "standard-2x"
-        }
-    }, 
+  
   "stack": "heroku-22",
   "addons": [],
   "buildpacks": [
