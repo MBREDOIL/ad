@@ -40,7 +40,7 @@
     },
     "MONGO_URL": {
       "description": "Your MongoDB URL",
-      "value": "mongodb+srv://yashyash:YeshYes123@321%#12@cluster0.o8zvds3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+      "value": "mongodb+srv://yashyash:stEeiWK4JCulVw76@cluster0.p5d2qra.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
       "required": true
     },
     "PREMIUM_LOGS": {
