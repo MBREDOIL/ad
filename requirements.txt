@@ -33,3 +33,4 @@ urllib3==2.1.0
 bs4
 flask
 pyromod
+pyjwt
